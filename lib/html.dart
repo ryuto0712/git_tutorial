@@ -1,1 +1,1 @@
-<p>gitmerge<p>
+<p>gitmergeです<p>
