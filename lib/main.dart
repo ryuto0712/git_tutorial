@@ -97,6 +97,10 @@ class _MyHomePageState extends State<MyHomePage> {
               'You have pushed the button this many times:',
             ),
             Text(
+              'git commit',
+            ),
+
+            Text(
               '$_counter',
               style: Theme.of(context).textTheme.headline4,
             ),
