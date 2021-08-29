@@ -1,2 +1,6 @@
-<p>home<p>
-<p>gitpull<p>
+import 'package:flutter/material.dart';
+print("うんこ");
+コンフリクト
+プルリク
+
+ヤッホー
