@@ -1,5 +1,4 @@
 feature
 feature
 
-コンフリク
-こんふりく
+aaaaaaaaaaaa
